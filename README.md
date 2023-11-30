@@ -2,7 +2,7 @@
 
 <h3>Website Implementation Link:</h3>
 
-<a href="http://flowerapp.djemdcg4cubjc2gx.eastus.azurecontainer.io/">Fresh Flowers</a>
+<a href="http://flowerapp.djemdcg4cubjc2gx.eastus.azurecontainer.io/">FlowerFusion</a>
 
 <h3>Video Implemetation:</h3>
 
@@ -13,7 +13,7 @@
 Lifestyle
 
 <h3>Project Title: </h3>
-Fresh Flowers
+The Flower selling website is designed using HTML and CSS and is deployed on the Azure platform. The website showcases a wide variety of beautiful flowers available for purchase
 
 <h3>Problem Statement:</h3>
 
