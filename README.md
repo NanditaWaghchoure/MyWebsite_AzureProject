@@ -6,6 +6,9 @@
 
 <h3>Video Implemetation:</h3>
 
+<a href="https://drive.google.com/drive/folders/1EnBu3FVFj7i0rWhaQEEyL9-vZN02Cxjj?usp=drive_link">Video Link</a>
+
+
 <h3>Industry:</h3>
 Lifestyle
 
