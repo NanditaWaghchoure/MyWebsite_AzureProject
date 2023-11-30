@@ -19,7 +19,7 @@ The Flower selling website is designed using HTML and CSS and is deployed on the
 
 
 
-
+<h3>Problem Description:</h3>
 <h4>Web Technologies used : HTML, CSS</h4>
 
 <h3>Primary Azure Services Used:</h3>
@@ -30,6 +30,65 @@ The Flower selling website is designed using HTML and CSS and is deployed on the
 <h3>ScreenShots:</h3>
 Step1:Creating Virtual Machine
 <br>
+
+<br>
+<img src=""></img>
+<br>
+<br>
+Step2:Container registries creating
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+Step3:adding access
+<img src="></img>
+<br>
+<br>
+Step5:Creating container instance
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<h3>output</h3>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+<br>
+<br>
+<img src=""></img>
+
+
+ 
 
 
 
