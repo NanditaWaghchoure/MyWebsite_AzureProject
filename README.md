@@ -43,7 +43,7 @@ Step2:Container registries creating
 
 <br>
 Step3:adding access
-<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/2.png"></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/3.png"></img>
 <br>
 <br>
 Step5:Creating container instance
