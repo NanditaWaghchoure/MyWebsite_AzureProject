@@ -32,7 +32,7 @@ Step1:Creating Virtual Machine
 <br>
 
 <br>
-<img src=""></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/1.png"></img>
 <br>
 <br>
 Step2:Container registries creating
