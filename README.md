@@ -38,54 +38,39 @@ Step1:Creating Virtual Machine
 Step2:Container registries creating
 <br>
 <br>
-<img src=""></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/2.png"></img>
 <br>
-<br>
-<img src=""></img>
-<br>
+
 <br>
 Step3:adding access
-<img src="></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/2.png"></img>
 <br>
 <br>
 Step5:Creating container instance
-<img src=""></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/4.png"></img>
 <br>
 <br>
-<img src=""></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/5.png"></img>
 <br>
 <br>
 <h3>output</h3>
 <br>
 <br>
-<img src=""></img>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/6.png"></img>
+<br>
+<br>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/7.png"></img>
+<br>
+<br>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/8.png"></img>
+<br>
+<br>
+<img src="https://github.com/NanditaWaghchoure/MyWebsite_AzureProject/blob/main/azure_project/images/Screenshotsofazurewebsite_flowers/9.png"></img>
 <br>
 <br>
 <img src=""></img>
 <br>
 <br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
-<br>
-<br>
-<img src=""></img>
 
 
  
