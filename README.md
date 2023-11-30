@@ -4,6 +4,33 @@
 
 <a href="http://flowerapp.djemdcg4cubjc2gx.eastus.azurecontainer.io/">Fresh Flowers</a>
 
+<h3>Video Implemetation:</h3>
+
+<h3>Industry:</h3>
+Lifestyle
+
+<h3>Project Title: </h3>
+Fresh Flowers
+
+<h3>Problem Statement:</h3>
+
+
+<h3>Problem Description:</h3>
+
+<h4>Web Technologies used : HTML, CSS</h4>
+
+<h3>Primary Azure Services Used:</h3>
+<li>Azure linux Virtual Machine</li>
+<li>Container Registries</li>
+<li>Container Instances</li>
+
+<h3>ScreenShots:</h3>
+Step1:Creating Virtual Machine
+<br>
+
+<br>
+<img src="https://github.com/shrutigaw/healthhubfr/assets/149674333/1792ee34-5921-4de8-8786-2fea02f66718"></img>
+<br>
 <h2>Description of My Flower selling Website</h2>
 <p>
 The flower selling website is designed using HTML and CSS and is deployed on the Azure platform. The website showcases a wide variety of beautiful flowers available for purchase.
