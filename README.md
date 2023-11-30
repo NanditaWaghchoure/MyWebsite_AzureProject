@@ -16,7 +16,7 @@ Lifestyle
 The Flower selling website is designed using HTML and CSS and is deployed on the Azure platform. The website showcases a wide variety of beautiful flowers available for purchase
 
 <h3>Problem Statement:</h3>
-The website is designed with a responsive layout, ensuring it looks great and functions properly on different devices, including desktops, laptops, tablets, and mobile phones. CSS media queries are used to adjust the layout and styling based on the screen size.
+The website is designed with a responsive layout, ensuring it looks great and functions properly on different devices, including desktops, laptops. CSS media queries are used to adjust the layout and styling based on the screen size.
 
 
 
